@@ -1,0 +1,303 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#header_container {
+    background-color: #1B0E0F;
+    padding: 96px;
+    margin: 64px auto 0 auto;
+    max-width: 1604px;
+    width: 100%;
+    
+}
+
+#main_container {
+    background-color: white;
+    padding: 96px 0px;
+}
+
+#insidecontent_header {
+    text-align: center;
+    padding: 0px 32px;
+    margin-bottom: 56px;
+}
+
+#headertitle_wrap {
+    color: #002AFE;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+
+#headersubtitle_wrap {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 24px;
+}
+
+#headerdescription_wrap {
+    color: #535862;
+    font-family: Inter;
+    font-size: 20px;
+}
+
+
+/* section1 */
+
+#section1_container {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    padding-bottom: 56px;
+}
+
+#section1_image {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 96px;
+}
+
+#section1_content {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#section1_title {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+#section1_subtitle {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    display: inline-block;
+    margin-right: 8px;
+}
+
+#section1_logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#section1_description {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+}
+
+#section1_description span {
+    display: block;
+}
+
+#section1avatar_wrap {
+    margin-top: 24px;
+}
+
+#section1_avatar {
+    margin-right: 8px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#avatar1Info {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#avatar1Info span {
+    display: block;
+}
+
+#avatar1Name {
+    color: #181D27;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 600;
+}
+
+#avatar1Birthdate {
+    color: #535862;
+    font-family: Inter;
+    font-size: 14px;
+}
+
+/* section2 */
+
+#section2_container {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    padding-bottom: 56px;
+}
+
+#section2_image {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 96px;
+}
+
+#section2_content {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#section2_title {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+#section2_subtitle {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    display: inline-block;
+    margin-right: 8px;
+}
+
+#section2_logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#section2_description {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+}
+
+#section2_description span {
+    display: block;
+}
+
+#section2avatar_wrap {
+    margin-top: 24px;
+}
+
+#section2_avatar {
+    margin-right: 8px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#avatar2Info {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#avatar2Info span {
+    display: block;
+}
+
+#avatar2Name {
+    color: #181D27;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 600;
+}
+
+#avatar2Birthdate {
+    color: #535862;
+    font-family: Inter;
+    font-size: 14px;
+}
+
+/* section3 */
+
+#section3_container {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    padding-bottom: 56px;
+}
+
+#section3_image {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 96px;
+}
+
+#section3_content {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#section3_title {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+#section3_subtitle {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    display: inline-block;
+    margin-right: 8px;
+}
+
+#section3_logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#section3_description {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+}
+
+#section3_description span {
+    display: block;
+}
+
+#section3avatar_wrap {
+    margin-top: 24px;
+}
+
+#section3_avatar {
+    margin-right: 8px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#avatar3Info {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#avatar3Info span {
+    display: block;
+}
+
+#avatar3Name {
+    color: #181D27;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 600;
+}
+
+#avatar3Birthdate {
+    color: #535862;
+    font-family: Inter;
+    font-size: 14px;
+}
